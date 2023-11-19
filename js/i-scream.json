@@ -33,5 +33,27 @@
             "Vanilla Base"
         ],
         "image": "https://navneetkaur362.github.io/lab-4/images/strawberry-sprinkle.svg"
+    },
+    {
+        "name": "Mango Tango Sorbet",
+        "calories": 280,
+        "type": "ice-cream",
+        "ingredients": [
+            "Fresh mango puree",
+            "Sprinkles",
+            "Sugar"
+        ],
+        "image": "https://navneetkaur362.github.io/lab-4/images/ice-cream-xtra2.svg"
+    },
+    {
+        "name": "Hazelnut heaven crunch",
+        "calories": 400,
+        "type": "ice-cream",
+        "ingredients": [
+            "Roasted hazelnuts",
+            "Caramel Swirls",
+            "Vanilla Base"
+        ],
+        "image": "https://navneetkaur362.github.io/lab-4/images/ice-cream-xtra1.svg"
     }]
 }
